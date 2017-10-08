@@ -3,3 +3,10 @@
 ################################################################################
 
 /packages
+/XFFirebase/XFFirebase/bin/Debug
+/XFFirebase/XFFirebase/obj
+/XFFirebase/XFFirebase.Droid/bin/Debug
+/XFFirebase/XFFirebase.Droid/obj/Debug
+/XFFirebase/XFFirebase.Droid/obj/Release
+/XFFirebase/XFFirebase.iOS/bin/iPhone/Debug
+/XFFirebase/XFFirebase.iOS/obj

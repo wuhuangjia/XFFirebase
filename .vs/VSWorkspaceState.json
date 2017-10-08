@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "\\XFFirebase",
+    "\\XFFirebase\\XFFirebase.Droid\\bin",
+    "\\XFFirebase\\XFFirebase.Droid\\obj",
+    "\\XFFirebase\\XFFirebase.iOS",
+    "\\XFFirebase\\XFFirebase.iOS\\bin",
+    "\\XFFirebase\\XFFirebase\\bin"
   ],
-  "SelectedNode": "\\XFFirebase",
   "PreviewInSolutionExplorer": false
 }

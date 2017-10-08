@@ -6,6 +6,6 @@
              x:Class="XFFirebase.Views.MainPage"
              Title="MainPage">
   <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
-    <Label Text="{Binding Title}" />
+        <Button Text="測試 Firebase EveneLog" Command="{Binding clickEventLogbtnCommand}"/>
   </StackLayout>
 </ContentPage>

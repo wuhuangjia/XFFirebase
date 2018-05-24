@@ -24,7 +24,7 @@ namespace XFFirebase.iOS.Service
                 Listkeys.Add(new NSString(item.Key));
                 Listvalues.Add(NSObject.FromObject(item.Value));
             }
-            var p = NSDictionary<NSString, NSObject>.FromObjectsAndKeys(Listkeys.ToArray(), Listvalues.ToArray(), Listkeys.Count);
+            var p = NSDictionary<NSString, NSObject>.FromObjectsAndKeys(Listvalues.ToArray(),Listkeys.ToArray(), Listkeys.Count);
 
             Analytics.LogEvent(name, p);
             // [END custom_event]
